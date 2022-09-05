@@ -1,4 +1,4 @@
-window.setTimeout(l2b_modal, 20000);
+window.setTimeout(l2b_modal, 12000);
 
 function l2b_modal() {
     // Задний фон модалки
