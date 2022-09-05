@@ -4,7 +4,7 @@
 .popup-window-wrp {
     display: block;
     position: fixed;
-    margin: 0 auto;
+    margin: 1.75rem auto;
     left: 0;
     top: 0;
     bottom: 0;
