@@ -2,7 +2,7 @@
 /* popup-window */
 
 .popup-window-wrp {
-    position: fixed;
+    position: absolute;
     left: auto;
     top: auto;
     bottom: auto;
