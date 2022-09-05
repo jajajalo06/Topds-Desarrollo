@@ -4,7 +4,7 @@
 .popup-window-wrp {
     display: block;
     position: fixed;
-    margin: -16rem auto;
+    margin: -18rem auto;
     left: 0;
     top: 0;
     bottom: 0;
@@ -83,28 +83,7 @@
     box-sizing: border-box;
 }
 
-a.perfect-link {
-    text-transform: uppercase;
-    font-size: 16px;
-    font-weight: bold;
-    text-shadow: 0 0 9px rgba(255, 252, 29, 0.75), 0 0 9px rgba(255, 224, 31, 0.75);
-    color: rgb(255, 246, 133);
-    text-decoration: none;
-    position: relative;
-}
 
-a.perfect-link:after {
-    content: '';
-    display: block;
-    height: 1px;
-    background-color: rgb(255, 246, 133);
-    position: absolute;
-    left: 50%;
-    right: 50%;
-    bottom: -3px;
-    right: 100%;
-    transition: .3s all
-}
 
 a.perfect-link:hover:after {
     right: 0;
