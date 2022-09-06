@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /js/
+Sitemap: https://tpdsagency.pro/sitemap.xml
